@@ -1,0 +1,29 @@
+{
+    "version": "0.1.0-beta",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_i386.zip",
+            "bin": [
+                "gomodeler.exe"
+            ],
+            "hash": "9c733b4a7a4de2e7e23b54dc53ae4273b3efa15bca3b93fd2e10e48db64b6914"
+        },
+        "64bit": {
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_x86_64.zip",
+            "bin": [
+                "gomodeler.exe"
+            ],
+            "hash": "c0a3d12494290d4c3caadeeb9e97b05d5c6716220653f92495b9b012fd2e212a"
+        },
+        "arm64": {
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_arm64.zip",
+            "bin": [
+                "gomodeler.exe"
+            ],
+            "hash": "9f4f7476552b53295a6976623ef56fe2ae4951fe8d520652adf3a58863806deb"
+        }
+    },
+    "homepage": "https://github.com/toolsascode/gomodeler",
+    "license": "Apache License 2.0",
+    "description": "Go Modeler is a small CLI and Library that brings the powerful features of the golang template into a simplified form."
+}
