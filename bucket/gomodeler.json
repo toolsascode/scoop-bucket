@@ -6,21 +6,21 @@
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "e37f2c534fbe204c94b650f656e1919fed02e63be73c862300b5e31df367b690"
+            "hash": "8571af3d1678e9f7869f2eaf80827060db7cbb06c299231de5e40d096e6ce63b"
         },
         "64bit": {
             "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0/gomodeler_Windows_x86_64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "35afb6c40397a8c610ea45810912c181cd521975a551330d82cad0ff95e1ef0e"
+            "hash": "98c6b4ee578ea32c3e0018b972b5686b07e4072390425f21f53213188e91f295"
         },
         "arm64": {
             "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0/gomodeler_Windows_arm64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "5e4b6ecb4b55c5b7c41f7115b05f5cd1e143c95e8e4b14c0b4392159dd1962c6"
+            "hash": "462ae514ae8afad16f2ae043a59b7ee3f3c32a9677821133cb2b78c75be53404"
         }
     },
     "homepage": "https://github.com/toolsascode/gomodeler",
