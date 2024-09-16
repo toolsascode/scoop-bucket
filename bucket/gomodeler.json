@@ -1,26 +1,26 @@
 {
-    "version": "0.1.0-beta.1",
+    "version": "0.1.0-beta",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta.1/gomodeler_Windows_i386.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_i386.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "9154f36b5e9aa7351d25b6018cb76a0f527bcc8e74a62e0724207087fe3af36a"
+            "hash": "5afc859040373d8a9476660a649e51cb0b5a10250664de0bf152f95dea97471f"
         },
         "64bit": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta.1/gomodeler_Windows_x86_64.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_x86_64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "d66d1f98a4f6b2992ef40aae3ee840b0b66c746b83dc7fa069f31aa8d37dc75f"
+            "hash": "ff316584c34c8d91526dff635a80cf0e1dfb3794afbf92f784d84408356c5ebb"
         },
         "arm64": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta.1/gomodeler_Windows_arm64.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0-beta/gomodeler_Windows_arm64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "746b3aff4d418779fa9ee51955514bf1037d572f77655e07637e9701e823abfe"
+            "hash": "f704b674222554adeb50edcc2012125027b53e0623cfae0bc72d5ced383d107f"
         }
     },
     "homepage": "https://github.com/toolsascode/gomodeler",
