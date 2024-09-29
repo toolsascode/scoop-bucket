@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_i386.zip",
+            "bin": [
+                "helm-s3-publisher.exe"
+            ],
+            "hash": "20e7d0ea06a9b85cd01950fe1415150060d73ccbfc2609609c3a8e5ecd2aa0b8"
+        },
+        "64bit": {
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_x86_64.zip",
+            "bin": [
+                "helm-s3-publisher.exe"
+            ],
+            "hash": "f0a4cad57a026a546081a44087345b12c50ea3b7fdf12e5b191f634b67b48bfa"
+        },
+        "arm64": {
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_arm64.zip",
+            "bin": [
+                "helm-s3-publisher.exe"
+            ],
+            "hash": "86f8c21909cbb0b2f215979b626ca16d9fe4b05414cd6d40d1fef39a008674e5"
+        }
+    },
+    "homepage": "https://github.com/toolsascode/helm-s3-publisher",
+    "license": "Apache License 2.0",
+    "description": "Go Modeler is a small CLI and Library that brings the powerful features of the golang template into a simplified form."
+}
