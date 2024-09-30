@@ -6,21 +6,21 @@
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "dcb74dd54fc76f6cb89545504c44ed04f26683b4387decf0e8528cc3c9e03c7c"
+            "hash": "98121fb2819cf5d312ce3adbe0382da0bbe9d254455d4efb8d3b6939dfdaf816"
         },
         "64bit": {
             "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_x86_64.zip",
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "c25b4d70910b436c97ecfd24446294166a9b9acde3bcca7af0ac647ac2fd4dc4"
+            "hash": "1b0e2679f94856659c94031bec4859b06688200188c398a4e3b88e4520b65074"
         },
         "arm64": {
             "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_arm64.zip",
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "94786e9b96b8762c633917f1dc94fb8f8b800292380b3693d8a67889fb01723d"
+            "hash": "219ffcd2e67489ee69f226f1450174f37c1c5733432750c67a74bfeb5c0ff745"
         }
     },
     "homepage": "https://github.com/toolsascode/helm-s3-publisher",
