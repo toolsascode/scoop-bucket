@@ -1,26 +1,26 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.0-beta",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_i386.zip",
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0-beta/helm-s3-publisher_Windows_i386.zip",
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "98121fb2819cf5d312ce3adbe0382da0bbe9d254455d4efb8d3b6939dfdaf816"
+            "hash": "8c7d6736c8bdf1764f95362868731fa2a2d2b2dc8812978cb144f905cb9941eb"
         },
         "64bit": {
-            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_x86_64.zip",
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0-beta/helm-s3-publisher_Windows_x86_64.zip",
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "1b0e2679f94856659c94031bec4859b06688200188c398a4e3b88e4520b65074"
+            "hash": "776794ca2092c9bc5c6a951126ab9fc97d66bd06c3f95abaa4548f7ccfb9edf1"
         },
         "arm64": {
-            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0/helm-s3-publisher_Windows_arm64.zip",
+            "url": "https://github.com/toolsascode/helm-s3-publisher/releases/download/v1.0.0-beta/helm-s3-publisher_Windows_arm64.zip",
             "bin": [
                 "helm-s3-publisher.exe"
             ],
-            "hash": "219ffcd2e67489ee69f226f1450174f37c1c5733432750c67a74bfeb5c0ff745"
+            "hash": "a0dafbfc59ea6d3a41f18dd91f05db362dd958d7204470b8918204da666ab711"
         }
     },
     "homepage": "https://github.com/toolsascode/helm-s3-publisher",
