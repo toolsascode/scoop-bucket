@@ -1,29 +1,29 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0/gomodeler_Windows_i386.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.1/gomodeler_Windows_i386.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "8571af3d1678e9f7869f2eaf80827060db7cbb06c299231de5e40d096e6ce63b"
+            "hash": "be5abb1f08ba43abe9bc1bbbbceefdc6ecbb51436a04f562b3612680fcb69674"
         },
         "64bit": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0/gomodeler_Windows_x86_64.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.1/gomodeler_Windows_x86_64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "98c6b4ee578ea32c3e0018b972b5686b07e4072390425f21f53213188e91f295"
+            "hash": "93cb6ba382889ffd4ee29b3d6f643c5ace9ba6e2e9fc9dd32fd7ca91360e9d7b"
         },
         "arm64": {
-            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.0/gomodeler_Windows_arm64.zip",
+            "url": "https://github.com/toolsascode/gomodeler/releases/download/v0.1.1/gomodeler_Windows_arm64.zip",
             "bin": [
                 "gomodeler.exe"
             ],
-            "hash": "462ae514ae8afad16f2ae043a59b7ee3f3c32a9677821133cb2b78c75be53404"
+            "hash": "0975bd380e292c7a455ce18cfa2b0a9e3dca7dcc410c433b281f26e912f20995"
         }
     },
     "homepage": "https://github.com/toolsascode/gomodeler",
-    "license": "Apache License 2.0",
+    "license": "MIT",
     "description": "Go Modeler is a small CLI and Library that brings the powerful features of the golang template into a simplified form."
 }
