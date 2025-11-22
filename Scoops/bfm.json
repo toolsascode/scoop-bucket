@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.1/bfm_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.2/bfm_0.1.2_windows_amd64.zip",
             "bin": [
                 "bfm.exe"
             ],
-            "hash": "42e3ff1496f149ee9f11047ad2f9bb4debf6502c9fa1f0ed71ee0da36da87b5e"
+            "hash": "d51b79205b3192d2f43398f03f5bc8b31416f96ed5ec2b75dcd7fc940be7d0b7"
         },
         "arm64": {
-            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.1/bfm_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.2/bfm_0.1.2_windows_arm64.zip",
             "bin": [
                 "bfm.exe"
             ],
-            "hash": "ce75442a406457d8d622974967d6163dd716485f14bdc8453eedfac66682fb37"
+            "hash": "96b1e9ebf5cf55ba255ccb41c5e618e2494100e514eaa9fc7121f8d6201ef442"
         }
     },
     "homepage": "https://github.com/toolsascode/bfm",
