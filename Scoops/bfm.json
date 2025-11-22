@@ -1,0 +1,25 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.1/bfm_0.1.1_windows_amd64.zip",
+            "bin": [
+                "bfm.exe"
+            ],
+            "hash": "42e3ff1496f149ee9f11047ad2f9bb4debf6502c9fa1f0ed71ee0da36da87b5e"
+        },
+        "arm64": {
+            "url": "https://github.com/toolsascode/bfm/releases/download/v0.1.1/bfm_0.1.1_windows_arm64.zip",
+            "bin": [
+                "bfm.exe"
+            ],
+            "hash": "ce75442a406457d8d622974967d6163dd716485f14bdc8453eedfac66682fb37"
+        }
+    },
+    "homepage": "https://github.com/toolsascode/bfm",
+    "license": "MIT",
+    "description": "BfM - Backend for Migrations CLI",
+    "persist": [
+        "config"
+    ]
+}
