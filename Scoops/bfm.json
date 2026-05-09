@@ -6,14 +6,14 @@
             "bin": [
                 "bfm.exe"
             ],
-            "hash": "26c7687dbceac9f38e0fe959142d97041aa7fef34a2742af3c142666dee9e3b0"
+            "hash": "ab06afa9019b5bfc5264d066f25c04526d49ea3edc2f880a21ddbcbffc72c9d1"
         },
         "arm64": {
             "url": "https://github.com/toolsascode/bfm/releases/download/v0.3.0/bfm_0.3.0_windows_arm64.zip",
             "bin": [
                 "bfm.exe"
             ],
-            "hash": "3db97554ca0cb8a592bafd65970b7a0c0401cfa55eb51a17f0f6b298e2a1564b"
+            "hash": "9b45671ce874d7204b1f92b5108b2fb00f5d5b2b1a2a078872130835b04fb848"
         }
     },
     "homepage": "https://github.com/toolsascode/bfm",
